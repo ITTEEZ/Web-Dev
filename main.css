@@ -1,0 +1,22 @@
+body{
+  background-color: lightblue;
+  font-family: fantasy;
+  color: white;
+}
+
+.section-1{
+
+  background-color: pink;
+  font-size: 20px;
+}
+
+.section-2 p{
+    background-color: green;
+    font-size: 20px;
+}
+a{
+  text-decoration: none;
+}
+section{
+  height: 300px
+}
